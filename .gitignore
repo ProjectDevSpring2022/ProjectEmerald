@@ -3,3 +3,10 @@ Intermediate
 ModularBuildingSet
 emerald/Saved/
 emerald/Intermediate/
+*.uasset
+emerald/Saved/Logs/emerald.log
+emerald/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+emerald/Saved/AutoScreenshot.png
+emerald/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset
+emerald/Saved/Autosaves/Game/Maps_Levels/Level_01_Auto1.umap
+emerald/Intermediate/CachedAssetRegistry.bin
