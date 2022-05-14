@@ -3,7 +3,6 @@ Intermediate
 ModularBuildingSet
 emerald/Saved/
 emerald/Intermediate/
-*.uasset
 emerald/Saved/Logs/emerald.log
 emerald/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 emerald/Saved/AutoScreenshot.png
